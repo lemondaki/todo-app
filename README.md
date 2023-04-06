@@ -2,7 +2,7 @@
 
 This project was a simple app: todo app
 The first project about ReactJS :((
-
+this is also learn git...
 ## Available Scripts
 
 In the project directory, you can run:
